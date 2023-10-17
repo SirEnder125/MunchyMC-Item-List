@@ -1,0 +1,8 @@
+
+# munchymc item descriptions (use minecraft color codes)
+
+obi_wans_lightsaber  :: §aPassive§f: Speed 2, Strength 2 §aAbility§f: Pulls people toward you, giving them slowness
+farquads_coin_pouch  :: §aWhile Looting§f: Spawns goodies in chests
+giving_trees_stump   :: §aPunch birch logs to convert them to Dark Oak
+peach_heart          :: §aShift in or on top of a mine§f to spawn §9columns of redstone ore/blocks
+thanos_hammer        :: §8???
